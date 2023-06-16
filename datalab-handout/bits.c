@@ -142,6 +142,13 @@ NOTES:
  *   Max ops: 14
  *   Rating: 1
  */
+/**
+ * 这个题是我唯一做过的题，但我现在已经忘记了。
+ * 只能用 取反和与实现异或
+ * @param x
+ * @param y
+ * @return
+ */
 int bitXor(int x, int y) {
   return 2;
 }

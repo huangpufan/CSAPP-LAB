@@ -1,6 +1,8 @@
 #
 # Makefile that builds btest and other helper programs for the CS:APP data lab
-# 
+# 需要执行下面的语句去确保我们
+#sudo apt-get install gcc-multilib
+#
 CC = gcc
 CFLAGS = -O -Wall -m32
 LIBS = -lm
